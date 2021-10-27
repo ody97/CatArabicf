@@ -31,5 +31,5 @@ jobs:
           commit_options: '--no-verify'
           repository: .
           commit_user_name: ody97
-          commit_user_email: 58665444+ody97@users.noreply.github.com
-          commit_author: ody97 <58665444+ody97@users.noreply.github.com>
+          commit_user_email: ody97@users.noreply.github.com
+          commit_author: ody97 <ody97@users.noreply.github.com>
