@@ -32,6 +32,7 @@ class REGEX:
         self.regex1 = ""
         self.regex2 = ""
 
+
 REGEX_ = REGEX()
 sudo_enabledcmds = sudo_enabled_cmds()
 
