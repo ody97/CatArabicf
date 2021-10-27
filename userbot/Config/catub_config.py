@@ -3,6 +3,6 @@ import os
 ENV = bool(os.environ.get("ENV", False))
 
 if ENV:
-    pass
+    from sample_config import Config  
 elif os.path.exists("config.py"):
-    pass
+    from config import Development as Config  
