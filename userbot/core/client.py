@@ -307,3 +307,4 @@ except AttributeError:
     CatUserBotClient.send_message = send_message
     CatUserBotClient.send_file = send_file
     CatUserBotClient.edit_message = edit_message
+ 
